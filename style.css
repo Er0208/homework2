@@ -1,0 +1,29 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.about {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #EDF7FA;
+  padding: 0px;
+  margin-left: auto;
+}
+
+.footer {
+  margin-top: 50px;
+  border-top: 1px solid #eee;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 50px;
+}
+
+.img-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */
