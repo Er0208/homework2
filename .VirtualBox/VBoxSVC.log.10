@@ -1,0 +1,71 @@
+00:00:00.002662 main     VirtualBox COM Server 6.0.16 r135674 win.amd64 (Jan 14 2020 09:36:09) release log
+00:00:00.002664 main     Log opened 2021-02-19T01:09:59.319475700Z
+00:00:00.002665 main     Build Type: release
+00:00:00.002670 main     OS Product: Windows 10
+00:00:00.002671 main     OS Release: 10.0.19041
+00:00:00.002671 main     OS Service Pack: 
+00:00:00.030426 main     DMI Product Name: To Be Filled By O.E.M.
+00:00:00.047559 main     DMI Product Version: To Be Filled By O.E.M.
+00:00:00.047572 main     Host RAM: 16317MB (15.9GB) total, 13379MB (13.0GB) available
+00:00:00.047578 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.047579 main     Process ID: 5748
+00:00:00.047579 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.181249          VirtualBox: object creation starts
+00:00:00.181464          Home directory: 'C:\Users\Server BMDB Intel\.VirtualBox'
+00:00:00.181561          Installed Drivers:
+00:00:00.184233            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.16.35674)
+00:00:00.184615            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.16.35674)
+00:00:00.185413            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.16.35674)
+00:00:00.190035          Loading settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.194023          Getting USB descriptor (id 0) failed with error 31
+00:00:00.200676          USB: Unknown USB device detected (idVendor: 0x0c45, idProduct: 0x64ab)
+00:00:00.200708          USB: Unknown USB device detected (idVendor: 0x18f8, idProduct: 0x0fc0)
+00:00:00.795438          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.799921          HostDnsMonitor: initializing
+00:00:00.808701          HostDnsMonitor: updating information
+00:00:00.808729          HostDnsMonitor: old information
+00:00:00.808729            no server entries
+00:00:00.808730            no domain set
+00:00:00.808730            no search string entries
+00:00:00.808731          HostDnsMonitor: new information
+00:00:00.808731            server 1: 192.168.0.1
+00:00:00.808732            no domain set
+00:00:00.808732            no search string entries
+00:00:00.979728          VD: VDInit finished with VINF_SUCCESS
+00:00:00.981004          Loading settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Gladi UNBK 2020\Gladi UNBK 2020.vbox" with version "1.15-windows"
+00:00:00.981883          Loading settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7 64 Bit\Windows 7 64 Bit.vbox" with version "1.15-windows"
+00:00:00.982629          Loading settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7_\Windows 7_.vbox" with version "1.15-windows"
+00:00:00.983455          Loading settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\ElementaryOs\ElementaryOs.vbox" with version "1.16-windows"
+00:00:00.993956          OCI: Local config file 'C:\Users\Server BMDB Intel\.VirtualBox\oci_config' does not exist
+00:00:00.994058          OCI: Original config file 'C:\Users\Server BMDB Intel\.oci\config' does not exist
+00:00:00.994059          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.994067          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.994103          VirtualBox: object created
+00:00:05.676291          Saving settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.704408          Saving settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.083714          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:13.105752          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:13.591478          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:13.591975          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:14.002699          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:14.002726          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:01:54.239499 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:01:54.804128 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:03:40.249150 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:10:56.243857 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:11:18.634145 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:32:33.194636 USBPROXY Getting USB descriptor (id 0) failed with error 31
+00:32:36.082619 USBPROXY Getting USB descriptor (id 0) failed with error 31
+05:04:30.913702 USBPROXY Getting USB descriptor (id 0) failed with error 31
+07:14:22.910730          Saving settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7 64 Bit\Windows 7 64 Bit.vbox" with version "1.15-windows"
+07:14:22.986675          Saving settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7 64 Bit\Windows 7 64 Bit.vbox" with version "1.15-windows"
+07:14:25.826152          Saving settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7_\Windows 7_.vbox" with version "1.15-windows"
+07:14:25.842699          Saving settings file "C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7_\Windows 7_.vbox" with version "1.15-windows"
+07:14:36.709354          Saving settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+07:14:36.727500          Saving settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+07:14:36.733558          Saving settings file "C:\Users\Server BMDB Intel\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+07:14:42.262367 main     VirtualBox: object deletion starts
+07:14:42.262420 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\VHD\Salinan VHD UNBK 2020_FRESH\VHD UNBK 2020_FRESH.vhd' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:14:42.263092 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7 64 Bit\Windows 7 64 Bit.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:14:42.263455 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Server BMDB Intel\VirtualBox VMs\Windows 7_\Windows 7_.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:14:42.263833 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Server BMDB Intel\VirtualBox VMs\ElementaryOs\ElementaryOs.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
