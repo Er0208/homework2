@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  padding: 3rem;
+  background-color: rgb(157, 157, 255);
+  font-family: sans-serif;
+
+}
+
+.container {
+    width: 80%;
+    margin-top:  10%;
+    border-radius: 20px;
+  }
+
+  #date-part {
+    font-size: 1.2em;
+  }
+
+  #time-part {
+    font-size: 2em;
+  }
+  
